@@ -1,0 +1,21 @@
+[
+  { "id": 1,
+    "en": "hello",
+    "rus": "привет",
+    "example": "hi"
+  },
+  { "id": 2,
+    "en": "world",
+    "rus": "мир",
+    "example": "the earth"
+  },
+  { "id": 3,
+    "en": "world wide web",
+    "rus": "Всемирная паутина",
+    "example": "an information system that enables information sharing over the Internet"
+  },
+  { "id": 4,
+    "en": "test",
+    "rus": "тест"
+  }
+]
